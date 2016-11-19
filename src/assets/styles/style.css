@@ -1,0 +1,91 @@
+html{
+  max-width: 290px;
+}
+
+a {
+  color:#D4E157;
+  text-align: center;
+}
+
+a.listName{
+  text-align: center;
+}
+
+ul{
+  list-style: decimal;
+}
+
+form {
+  width: 100%;
+}
+
+.formInput {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 32px;
+}
+
+.app{
+  background-color: #455A64;
+}
+
+#listHeader{
+  font-size: 22px;
+  height:25px;
+  background-color: #00BCD4;
+  padding-left: 50px;
+}
+
+#listContainer{
+  max-width:300px;
+  padding-left: 0px;
+}
+
+div.listItem{
+  margin-left: 5px;
+  padding-left: 0px;
+  margin-top: 5px;
+}
+
+.createButton{
+  height: 20px;
+  margin-left: 5px;
+  border-style: none;
+  color:white;
+  background-color: black;
+  border:1px solid white;
+  margin-top: 10px;
+}
+
+.avatar, img.avatarBanner{
+  border-radius: 30px;
+}
+
+img.avatarBanner{
+  height:50px;
+  width: 50px;
+  margin-left: 100px;
+}
+
+.profileBanner{
+  height:50px;
+  background-color: #00BCD4;
+}
+
+div.listItem.profileItem{
+  color:#9FA8DA;
+  font-size: 20px;
+}
+
+.delButton {
+  height: 25px;
+  width: 50px;
+  float: right;
+  margin-top: 30px;
+  border-radius: 5%;
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  border-style: none;
+}

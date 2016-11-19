@@ -1,0 +1,140 @@
+{
+  "contacts": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Daniel",
+        "last": "Denys"
+      },
+      "location": {
+        "street": "7283 coastal highway",
+        "city": "Greenwood",
+        "state": "Nunavut",
+        "postcode": 61421
+      },
+      "email": "daniel.denys@example.com",
+      "login": {
+        "username": "blackkoala996",
+        "password": "pete",
+        "salt": "Vcg8QGgR",
+        "md5": "743fc2ad7b61cda63602c296aaab335b",
+        "sha1": "e2eb940512b95e9f5babe67098ea12392a82eb22",
+        "sha256": "0bb54373a66f4173fd5f1a8620f3e1e68b214973cfa3a8bdba0847f0a3bd263a"
+      },
+      "registered": 946532156,
+      "dob": 1430498648,
+      "phone": "953-845-0361",
+      "cell": "998-627-0904",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Vincent",
+        "last": "Lévesque"
+      },
+      "location": {
+        "street": "4589 grand marais ave",
+        "city": "Beaumont",
+        "state": "Ontario",
+        "postcode": 19070
+      },
+      "email": "vincent.lévesque@example.com",
+      "login": {
+        "username": "beautifulswan725",
+        "password": "michael2",
+        "salt": "TxmY4s9T",
+        "md5": "2f37d603aadc819c6b1acd37974008e1",
+        "sha1": "18c57a53bcd7091730f1aca5b6bafff4ec2d8f97",
+        "sha256": "3324368ac98943aca79a75e4725ab8b2537ff11ca0333652b29c6dd1aad47c56"
+      },
+      "registered": 961379495,
+      "dob": 748963407,
+      "phone": "763-296-4886",
+      "cell": "833-301-1425",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "Afşar",
+        "last": "Aykaç"
+      },
+      "location": {
+        "street": "6520 vatan cd",
+        "city": "malatya",
+        "state": "bursa",
+        "postcode": 58472
+      },
+      "email": "afşar.aykaç@example.com",
+      "login": {
+        "username": "lazygorilla495",
+        "password": "contact",
+        "salt": "0P6ogiiu",
+        "md5": "e756f936acec9eb4dd1b163cc387aa6c",
+        "sha1": "01d50a69af944f90ba8e46b5f2b581eed2d580ec",
+        "sha256": "573cca911959382041ccac9b0847daf384a03db0307d399b1681a0b214367b5e"
+      },
+      "registered": 1243699667,
+      "dob": 1173436501,
+      "phone": "(802)-060-4739",
+      "cell": "(630)-356-9595",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Milton",
+        "last": "Hunter"
+      },
+      "location": {
+        "street": "4031 bollinger rd",
+        "city": "Louisville",
+        "state": "Maine",
+        "postcode": 90576
+      },
+      "email": "milton.hunter@example.com",
+      "login": {
+        "username": "ticklishwolf390",
+        "password": "females",
+        "salt": "pZDV7Z1H",
+        "md5": "0e825129390b5a497528ae6429e046c9",
+        "sha1": "586824123397e5faa331a58ac5d370a73227ada2",
+        "sha256": "adc5fef09819654d1087b6737c92553447bdfcc2fecc48b44876aeff49032b6d"
+      },
+      "registered": 1210866590,
+      "dob": 598451318,
+      "phone": "(062)-393-1749",
+      "cell": "(223)-333-7790",
+      "id": 4,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+      },
+      "nat": "US"
+    }
+  ]
+}
